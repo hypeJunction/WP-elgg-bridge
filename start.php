@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Elgg Bridge
- * Version: 0.0.0
+ * Version: 1.0.0
  * Description: Integrates WordPress with Elgg via XML-RPC web services
  * Author: Ismayil Khayredinov
  * Author URI: http://hypejunction.com/
