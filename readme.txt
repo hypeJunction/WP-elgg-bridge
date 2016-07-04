@@ -1,5 +1,5 @@
 === Elgg Bridge ===
-Contributors: ismayil.khayredinov
+Contributors: hypejunction
 Donate link: http://hypejunction.com/
 Tags: elgg, integration
 Requires at least: 4.5
@@ -35,3 +35,6 @@ elgg_bridge()->getClient()->post('blog.save_post', [
 You will most likely need to activate `web_services` plugin in Elgg.
 This plugin assumes to have `web_services_apis` plugin or similar that provides a set of web services that you can access.
 
+== Contact ==
+
+If you have ideas for out of the box integrations, please email me at info@hypejunction.com
