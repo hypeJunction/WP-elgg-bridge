@@ -2,6 +2,10 @@
 
 use hypeJunction\ElggBridge\Plugin;
 
+if (!defined('ABSPATH')) {
+	die('Do not go where the path may lead ...');
+}
+
 $options = (array) get_option('elgg_bridge_options');
 $api_result = elgg_bridge()->getClient()->get('site.test');
 ?>
